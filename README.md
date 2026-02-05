@@ -14,10 +14,12 @@ The project demonstrates the practical use of **PHP, MySQL, HTML, CSS, and JavaS
 https://myskillpro.great-site.net/?i=1
 
 ---
-
 ## 📄 Project Documentation
+
 - 📘 **Assignment Report (PDF):**  
   [Download SkillPro Web Report (PDF)](./Skill_Pro_Web_Report.pdf?raw=true)
+
+> 📌 Note: GitHub may not preview the PDF online. Please download the file to view the full report.
 
 ---
 
