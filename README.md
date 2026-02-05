@@ -2,9 +2,9 @@
 
 # SkillPro Institute Web Application 🎓
 
-**Academic Project Showcase – Full Stack Web Development**
+**Project Showcase – Full Stack Web Development**
 
-This repository contains the implementation and documentation of the **SkillPro Institute Web Application**, a **database-driven web system** developed as part of an academic assignment.  
+This repository contains the implementation and documentation of the **SkillPro Institute Web Application**, a **database-driven web system** developed as part of my Project showcase.  
 The project demonstrates the practical use of **PHP, MySQL, HTML, CSS, and JavaScript** to build a role-based web application for a TVET-style institute.
 
 ---
