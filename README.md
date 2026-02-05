@@ -1,4 +1,4 @@
-![SkillPro Web Application Project](SkillPro)
+![SkillPro Web Application Project](Skillpro.png)
 
 # SkillPro Institute Web Application 🎓
 
